@@ -3,6 +3,6 @@
 *** 
 ![Image](https://github.com/user-attachments/assets/94a2f348-b7e5-40ed-ae74-60f7bb094b8f)
 
-* 관찰 연구: 약발과 평점의 관계
+* 관찰 연구: 약발과 유저 평가점수의 관계
 * A/B 테스트: 네드베드 포지션 변경 영향 분석
 * 코호트 분석
