@@ -10,4 +10,4 @@
 * 데이터 기반으로 자카리아의 영입 효과를 검증하고자 분석 기획
 * 따라서, 자카리아 영입 전 50판, 영입 후 50판씩을 플레이하며, 코호트 분석을 진행할 예정이다.
   
-![Image](https://github.com/user-attachments/assets/82817d3d-7af6-42e2-a746-7ec80d218054)
+![Image](https://github.com/user-attachments/assets/cb0dd7d4-87ba-405e-a596-0b4e66ed5e2b)
